@@ -20,9 +20,9 @@
 
 <img src="./src/images/gif console.gif" width="100%">
 
-<img src="./src/images/Mobile gif.gif" width="100%">
+<img src="./src/images/Mobile gif.gif" width="50%">
 
-<img src="./src/images/codigo gif.gif" width="100%">
+<img src="./src/images/codigo gif.gif" width="50%">
 
 ### Links 📌
 <ul>
